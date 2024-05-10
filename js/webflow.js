@@ -1659,7 +1659,7 @@ __p+='`), F
     var jb = Ve(),
       zb = 0,
       Kb = Math.random(),
-      $b = jb(1.toString);
+      $b = jb(1. toString);
     ec.exports = function (e) {
       return "Symbol(" + (e === void 0 ? "" : e) + ")_" + $b(++zb + Kb, 36)
     }
